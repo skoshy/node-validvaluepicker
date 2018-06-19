@@ -1,0 +1,22 @@
+{
+  "name": "validvaluepicker",
+  "version": "0.1.0",
+  "description": "Picks a valid value from a given object using a priority list of object paths",
+  "main": "./lib/validvaluepicker.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skoshy/node-validvaluepicker.git"
+  },
+  "author": "Stefan Koshy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skoshy/node-validvaluepicker/issues"
+  },
+  "homepage": "https://github.com/skoshy/node-validvaluepicker#readme",
+  "devDependencies": {
+    "simple-test-framework": "^0.1.7"
+  }
+}
